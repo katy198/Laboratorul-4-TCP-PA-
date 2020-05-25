@@ -1,0 +1,20 @@
+D:\C#_projects\Smart_Home\bin\Debug\Smart_Home.exe.config
+D:\C#_projects\Smart_Home\bin\Debug\Smart_Home.exe
+D:\C#_projects\Smart_Home\bin\Debug\Smart_Home.pdb
+D:\C#_projects\Smart_Home\obj\Debug\Smart_Home.csprojAssemblyReference.cache
+D:\C#_projects\Smart_Home\obj\Debug\Smart_Home.Form1.resources
+D:\C#_projects\Smart_Home\obj\Debug\Smart_Home.Properties.Resources.resources
+D:\C#_projects\Smart_Home\obj\Debug\Smart_Home.csproj.GenerateResource.cache
+D:\C#_projects\Smart_Home\obj\Debug\Smart_Home.csproj.CoreCompileInputs.cache
+D:\C#_projects\Smart_Home\obj\Debug\Smart_Home.exe
+D:\C#_projects\Smart_Home\obj\Debug\Smart_Home.pdb
+E:\aaa\Smart home\Smart_Home\bin\Debug\Smart_Home.exe.config
+E:\aaa\Smart home\Smart_Home\bin\Debug\Smart_Home.exe
+E:\aaa\Smart home\Smart_Home\bin\Debug\Smart_Home.pdb
+E:\aaa\Smart home\Smart_Home\obj\Debug\Smart_Home.csprojAssemblyReference.cache
+E:\aaa\Smart home\Smart_Home\obj\Debug\Smart_Home.Form1.resources
+E:\aaa\Smart home\Smart_Home\obj\Debug\Smart_Home.Properties.Resources.resources
+E:\aaa\Smart home\Smart_Home\obj\Debug\Smart_Home.csproj.GenerateResource.cache
+E:\aaa\Smart home\Smart_Home\obj\Debug\Smart_Home.csproj.CoreCompileInputs.cache
+E:\aaa\Smart home\Smart_Home\obj\Debug\Smart_Home.exe
+E:\aaa\Smart home\Smart_Home\obj\Debug\Smart_Home.pdb

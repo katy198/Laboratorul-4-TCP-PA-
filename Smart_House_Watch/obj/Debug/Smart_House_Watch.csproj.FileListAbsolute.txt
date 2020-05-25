@@ -1,0 +1,22 @@
+D:\C#_projects\Smart_House_Watch\bin\Debug\Smart_House_Watch.exe.config
+D:\C#_projects\Smart_House_Watch\bin\Debug\Smart_House_Watch.exe
+D:\C#_projects\Smart_House_Watch\bin\Debug\Smart_House_Watch.pdb
+D:\C#_projects\Smart_House_Watch\obj\Debug\Smart_House_Watch.csprojAssemblyReference.cache
+D:\C#_projects\Smart_House_Watch\obj\Debug\Smart_House_Watch.Form1.resources
+D:\C#_projects\Smart_House_Watch\obj\Debug\Smart_House_Watch.Monitor.resources
+D:\C#_projects\Smart_House_Watch\obj\Debug\Smart_House_Watch.Properties.Resources.resources
+D:\C#_projects\Smart_House_Watch\obj\Debug\Smart_House_Watch.csproj.GenerateResource.cache
+D:\C#_projects\Smart_House_Watch\obj\Debug\Smart_House_Watch.csproj.CoreCompileInputs.cache
+D:\C#_projects\Smart_House_Watch\obj\Debug\Smart_House_Watch.exe
+D:\C#_projects\Smart_House_Watch\obj\Debug\Smart_House_Watch.pdb
+E:\aaa\Smart home\Smart_House_Watch\bin\Debug\Smart_House_Watch.exe.config
+E:\aaa\Smart home\Smart_House_Watch\bin\Debug\Smart_House_Watch.exe
+E:\aaa\Smart home\Smart_House_Watch\bin\Debug\Smart_House_Watch.pdb
+E:\aaa\Smart home\Smart_House_Watch\obj\Debug\Smart_House_Watch.csprojAssemblyReference.cache
+E:\aaa\Smart home\Smart_House_Watch\obj\Debug\Smart_House_Watch.Form1.resources
+E:\aaa\Smart home\Smart_House_Watch\obj\Debug\Smart_House_Watch.Monitor.resources
+E:\aaa\Smart home\Smart_House_Watch\obj\Debug\Smart_House_Watch.Properties.Resources.resources
+E:\aaa\Smart home\Smart_House_Watch\obj\Debug\Smart_House_Watch.csproj.GenerateResource.cache
+E:\aaa\Smart home\Smart_House_Watch\obj\Debug\Smart_House_Watch.csproj.CoreCompileInputs.cache
+E:\aaa\Smart home\Smart_House_Watch\obj\Debug\Smart_House_Watch.exe
+E:\aaa\Smart home\Smart_House_Watch\obj\Debug\Smart_House_Watch.pdb
